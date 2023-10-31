@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"<Unnamed>","c":"PersegiCalculator","l":"main(String[])","u":"main(java.lang.String[])"},{"p":"<Unnamed>","c":"PersegiCalculator","l":"PersegiCalculator()","u":"%3Cinit%3E()"}];updateSearchResults();
